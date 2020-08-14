@@ -1,0 +1,65 @@
+body {
+    margin: 25px 25px 45px 25px;
+    background-color: red;
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    text-shadow: 0.3px 0.3px yellow;
+    font-size: 2rem;
+}
+h1 {
+    font-size: 2.2rem;
+}
+#pic1, #pic2 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35% 15px 35%;
+}
+#pic6, #pic7, #pic8, #pic9, #pic10, #pic11 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30% 15px 30%;
+}
+#pic3 {
+    width: 30%;
+    height: auto;
+    border: 2px black solid;
+    outline: 1px yellow solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#pic3b {
+    width: 30%;
+    height: auto;
+    border: 2px black solid;
+    outline: 1px yellow solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#pic4 {
+    width: 20%;
+    height: auto;
+    border: 2px black solid;
+    outline: 1px yellow solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#pic5 {
+    width: 30%;
+    height: auto;
+    border: 2px black solid;
+    outline: 1px yellow solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+iframe {
+    border: 2px black solid;
+    outline: 1px yellow solid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+footer {
+    text-align: center;
+    font-size: 1.2rem;
+}
